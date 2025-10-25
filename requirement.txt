@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+spacy
+ollama
+python-jose
+alembic
+pymysql
+pytest
+pydantic[email]
+passlib[bcrypt]
+# Optional heavy deps (install as needed):
+# torch, transformers, sentence-transformers

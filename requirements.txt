@@ -1,0 +1,38 @@
+mysql-connector-python==8.0.33
+python-dotenv==1.0.0
+bcrypt==4.0.1
+transformers==4.35.2
+sentence-transformers==2.2.2
+scikit-learn==1.3.2
+nltk==3.8.1
+PyPDF2==3.0.1
+numpy>=1.24.3
+pytest==7.4.3
+fairlearn>=0.7.0 
+pandas>=2.1.1
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+scipy>=1.11.3
+aif360>=0.5.0  # IBM AI Fairness 360 toolkit
+imbalanced-learn>=0.11.0  # For handling imbalanced datasets
+plotly>=5.17.0  # Interactive visualizations
+kaleido>=0.2.1  # For static image export
+statsmodels>=0.14.0  # For advanced statistical analysis
+shap>=0.42.0  # For model interpretability
+lime>=0.2.0.1  # For local interpretable model-agnostic explanations
+folktables>=0.0.12  # For demographic analysis using census data
+themis-ml>=0.0.4 # Additional fairness metrics
+pdoc3>=0.10.0  # For documentation generation
+prophet>=1.1.4  # For time series forecasting
+optuna>=3.3.0  # For hyperparameter optimization
+dowhy>=0.9  # For causal inference
+econml>=0.14.1  # For causal machine learning
+alibi>=0.9.0  # For ML model monitoring and explanations
+art>=1.15.0  # For adversarial robustness testing
+captum>=0.6.0  # For attribution and interpretability
+river>=0.15.0  # For online learning and monitoring
+mlflow>=2.8.0  # For experiment tracking
+great-expectations>=0.17.15  # For data quality validation
+wandb>=0.15.11  # For experiment tracking and visualization
+deepchecks>=0.17.0  # For ML validation and testing
+evidently>=0.4.0  # For ML monitoring and profiling
